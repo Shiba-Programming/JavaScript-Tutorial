@@ -2,4 +2,4 @@
 
 JavaScriptのTutorial
 
-てきとーにコード書きました
+てきとー
