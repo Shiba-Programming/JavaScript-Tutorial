@@ -2,4 +2,4 @@
 
 JavaScriptのTutorial
 
-てきとー
+てきとーだお
