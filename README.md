@@ -1,5 +1,4 @@
-# JavaScript-Tutorial-01
-
-JavaScriptのTutorial
+# JavaScript-Tutorial
+JavaScriptのTutorial まとめ
 
 てきとーだお
