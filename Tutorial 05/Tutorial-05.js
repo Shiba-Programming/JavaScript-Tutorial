@@ -6,5 +6,5 @@ window.alert("配列は、複数の並んだ要素に対して[添字]と呼ば�
 
 //ここまで説明
 
-var classes = ['A組', 'B組', 'C組', 'D組'];
+var classes = ['あ','い'];
 classes[0]
